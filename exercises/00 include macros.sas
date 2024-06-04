@@ -16,7 +16,7 @@
 
 * WHERE fpsaus == flexible parametric survival analysis using SAS;
 	
-%let fpsaus = <path to the root of the survival resources tree>;
+%let fpsaus = C:\Users\pauld\Documents\GitHub\SAS_FlexSurv;
 
 /*	for example:	*/
 /*	%let fpsaus = C:\work\survival resources;  */
